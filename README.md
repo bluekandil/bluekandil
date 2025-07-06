@@ -8,7 +8,7 @@
 
 - 💼 I’m an app developer working in the **fintech** space.
 - 🧪 This GitHub profile is my **experimental lab** — a place to explore new ideas, build prototypes, fail fast, learn, and rebuild better.
-- 🚀 Passionate about creating smooth, scalable, and secure applications that make finance more accessible.
+- 🚀 Passionate about creating stuff
 
 ---
 
