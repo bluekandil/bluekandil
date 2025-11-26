@@ -14,11 +14,6 @@
 
 
 
-<p >
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bluekandil&show_icons=true&theme=radical" height="160" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluekandil&layout=compact&theme=radical" height="160" />
-</p>
-
 ---
 
 <p align="center"><i>"Build. Break. Learn. Repeat."</i></p>
