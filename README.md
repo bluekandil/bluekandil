@@ -10,11 +10,8 @@
 - 🧪 This GitHub profile is my **experimental lab** — a place to explore new ideas, build prototypes, fail fast, learn, and rebuild better.
 - 🚀 Passionate about creating stuff
 
----
 
 
-
----
 
 <p align="center"><i>"Build. Break. Learn. Repeat."</i></p>
 
