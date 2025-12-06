@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 <h3 >Welcome to my playground — where I build, break, and build again.</h3>
@@ -16,7 +17,7 @@
 <p align="center"><i>"Build. Break. Learn. Repeat."</i></p>
 
 
-<!--
+
 
 **bluekandil/bluekandil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
