@@ -1,7 +1,7 @@
 
-###### Hi there 👋
+#### Hi there 👋
 
-###### Welcome to my playground — where I build, break, and build again
+##### Welcome to my playground — where I build, break, and build again
 
 - I’m an app developer based in Melbourne.
 - I’m passionate about creating things that are simple, useful, and thoughtful.
